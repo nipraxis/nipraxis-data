@@ -95,3 +95,6 @@ Other text files are:
 * ``voxel_time_course.txt`` is the output of the code in
   ``test_one_voxel.rst``, therefore derived from data in
   ds114_sub009_t2r1.txt. We release under PDDL 1.0.
+* ``24719.f3_beh_CHYM.csv`` - from `Chris Gorgolewski
+  <https://reproducibility.stanford.edu/team/chris-gorgolewski/>`_, released by
+  him under a CC-0 license.
