@@ -5,23 +5,22 @@ The data in ``camera.txt`` comes from reading the
 data file from Scikit Image, and writing the values to a text file.  See
 `./scipts/make_camera.py`.   As noted in the link, the data has a CC0 license.
 
-The individual brain image data come from two OpenFMRI datasets:
+The individual brain image data come from three OpenNeuro datasets:
 
-* dataset ds107 : https://openfmri.org/dataset/ds000107
-* dataset ds114 : https://openfmri.org/dataset/ds000114
+* dataset ds107 : https://openneuro.org/datasets/ds000107
+* dataset ds108 : https://openneuro.org/datasets/ds000108
+* dataset ds114 : https://openneuro.org/datasets/ds000114
 
-The files from the ``ds107`` and ``ds114`` datasets are covered by a Public
-Domain Dedication and License (PDDL) version 1.0
-http://opendatacommons.org/licenses/pddl/1.0/ . We release all derivative
-images in this repository under the same license.
+The files from the OpenNeuro datasets are covered by a Public Domain Dedication
+and License (PDDL) version 1.0 http://opendatacommons.org/licenses/pddl/1.0/ .
+We release all derivative images in this repository under the same license.
 
-The brain image template with names starting `mni_icbm152` are contained in,
-or derived from the MNI non-linear templates archive
+The brain image template with names starting `mni_icbm152` are contained in, or
+derived from the MNI non-linear templates archive
 'mni_icbm152_t1_tal_nlin_asym_09a' last found at
 http://www.bic.mni.mcgill.ca/~vfonov/icbm/2009/mni_icbm152_nlin_asym_09a_nifti.zip
-via http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009.  The
-original images have the following license (where 'software' refers to the
-image):
+via http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009.  The original
+images have the following license (where 'software' refers to the image):
 
     Copyright (C) 1993-2004 Louis Collins, McConnell Brain Imaging Centre,
     Montreal Neurological Institute, McGill University.
