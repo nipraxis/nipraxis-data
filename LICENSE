@@ -86,6 +86,8 @@ Other text files are:
 * ``ds114_sub009_t2r1_conv.txt`` is an output from the code in
   ``convolution_background.rst`` and derives from
   ``ds114_sub0009_t2r1_cond.txt``. We release this under PPDL 1.0;
+* ds114_sub009_highres_brain_mask.nii : uncompressed version of
+  `sub009/anatomy/highres001_brain_mask.nii.gz` from ds114;
 * ``my_hrf_estimates.txt`` is the output of the script
   ``write_mt_hrf_estimates.py``, and so derives from the `nitime
   <http://nipy.org/nitime>`_ file ``nitime/data/event_related_fmri.csv``
